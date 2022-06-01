@@ -3,10 +3,7 @@
     margin: 0;
 }
 
-@font-face {
-    font-family: IndieFlower;
-    src: url( IndieFlower.ttf);
-}
+
 
 body{
     background-color: rgb(29, 60, 144);
