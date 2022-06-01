@@ -34,10 +34,7 @@ main{
     flex-direction: column;
    
 
-.NFT{
-    grid-area: pic;
-    
-}
+
 
 .NFT_IMAGE{
         width: 100%;
